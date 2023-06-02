@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://wallpaperaccess.com/full/5430872.jpg");
+  text-align: center;
+  color: black;
+  display: flex;
+  justify-content: center;
+  font-family: monospace;
+  margin-top: 200px;
+}
+
+#text {
+  border-right: solid white 4px;
+  height: 35px;
+}
